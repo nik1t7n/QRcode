@@ -21,7 +21,9 @@ A simple QR code generation app built with customtkinter and qrcode in Python.
 <code>pip install -r requirements.txt</code>
 
 <ol start="2">
+    <br>
     <li>Run the app:</li>
+    <br>
 </ol>
 <code>python main.py</code>
 
