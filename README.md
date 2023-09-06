@@ -1,5 +1,5 @@
-<b>QR Code Generator</b>
-<br>
+<b>QR Code Generator</b><br>
+
 A simple QR code generation app built with customtkinter and qrcode in Python.
 
 <b>Features:</b>
