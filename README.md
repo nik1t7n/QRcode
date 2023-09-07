@@ -14,17 +14,37 @@ A simple QR code generation app built with customtkinter and qrcode in Python.
 <br>
 <img src="screenshots/light.png" width="400"> <img src="screenshots/dark.png" width="400">
 
-<b>Usage:</b>
+<b>Usage MacOS:</b>
 <ol>
+    <li>Clone the repository:</li>
+</ol>
+<code>git clone https://github.com/Nik1t7n/QRcode</code>
+
+<ol>
+    <br>
+    <li>Open the directory:</li>
+</ol>
+<code>cd path/to/QRcode</code>
+
+<ol>
+    <br>
+    <li>Create a virtual environment:</li>
+</ol>
+<code>python3 -m venv venv</code>
+<br><code>source venv/bin/activate</code>
+
+<ol>
+    <br>
     <li>Install dependencies:</li>
 </ol>
-<code>pip install -r requirements.txt</code>
+<code>brew install python-tk</code>
+<br><code>pip install -r requirements.txt</code>
 
 <ol start="2">
     <br>
     <li>Run the app:</li>
 </ol>
-<code>python main.py<br></code><br>
+<code>python3 main.py<br></code><br>
 
 <b><br>Author:</b>
 <br>
